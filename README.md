@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 # 👋 Hey there! I'm Vishnu Ramasubramanian
 
 🚀 **Genomic Data Scientist | Bioinformatics Researcher | Quantitative Geneticist**  
@@ -27,4 +25,3 @@
 - 📫 How to reach me: ivanvishnu@gmail.com
 - 😄 Pronouns: He/Him
 
--->
