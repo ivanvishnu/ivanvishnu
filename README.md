@@ -1,16 +1,30 @@
 ## Hi there 👋
 
 <!--
-**ivanvishnu/ivanvishnu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey there! I'm Vishnu Ramasubramanian
 
-Here are some ideas to get you started:
+🚀 **Genomic Data Scientist | Bioinformatics Researcher | Quantitative Geneticist**  
+🌱 Passionate about **mining the genome** for selection & discovery 
+🧬 Working on multiple genomic data analysis projects with a primary focus on genomic prediction
+📝 Exploring **genomics** and computational biology  
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🔬 Current Work
+- 📊 **Quantitative Genetics & Bioinformatics**: Analyzing genomics data for selection & discovery in Soybean   
+- 📖 **Data Science & ML**: Applying computational techniques to biological datasets  
+
+## 🛠️ Tech Stack
+🔹 **Languages:** R, Bash, Python  
+🔹 **Tools:** GitHub, Docker, Jupyter  
+🔹 **Data Analysis:** Pandas, NumPy, Bioconductor, R 
+
+---
+- 🌱 I'm currently learning **Machine Learning:** Scikit-Learn, TensorFlow 
+
+
+## 📫 Let's Connect!
+- 🔗 **LinkedIn**: [linkedin.com/in/vishnuramasubramanian](www.linkedin.com/in/vishnu-ramasubramanian-70077b87)
+- 📫 How to reach me: ivanvishnu@gmail.com
+- 😄 Pronouns: He/Him
+
 -->
