@@ -33,7 +33,7 @@ GS4PB hosts a R/Shiny app package that implements a genomic selection pipeline t
 
 --- 
 ### 🌱 Learning 
--  I'm currently learning machine Learning, deep learning, Scikit-Learn, TensorFlow 
+-  I'm currently learning Machine Learning, Deep Learning, Scikit-Learn, TensorFlow 
 -  Interested in Neuro-rights and legal regulation of Neuro-technology
 --- 
 
